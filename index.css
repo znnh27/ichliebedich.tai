@@ -70,7 +70,7 @@ header nav ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: ;
+    
 }
 
 .hero-text {
@@ -121,7 +121,13 @@ header nav ul li a {
     position: absolute;
     top: 650px;
     right: 10px;
+ 
 }
+
+.hero-text i{
+    margin-right: 15px;
+}
+
 
 .hero-text .btn:hover {
     background: #7DC7E0;
