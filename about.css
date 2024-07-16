@@ -9,10 +9,29 @@
 
 body{
 background: linear-gradient(180deg, rgba(203, 218, 221, 0.52) 0%, rgba(204, 212, 209, 0.26) 50%, rgba(255, 255, 255, 0.00) 100%);
-
-    
      
 }
+
+.station{
+    display: flex;
+    justify-content: space-between;
+}
+
+.station a{
+    width: 200px;
+    line-height: 2;
+    background-color: #7DC7E0;
+    color: #FFF;
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    
+}
+
+
+
 
 .wrapper{
     margin:0 auto ;
