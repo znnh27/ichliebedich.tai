@@ -84,6 +84,19 @@ header nav ul li a {
     margin-right: 5px;
 }
 
+.footer .hover{
+    display: none;
+}
+
+.footer:hover .hover{
+    display: block;
+}
+
+.footer:hover .taiza{
+    display: none;
+}
+
+
 .Main{
     margin: 0 auto;
     width: 1000px;
