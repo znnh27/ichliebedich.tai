@@ -22,15 +22,15 @@ background: linear-gradient(180deg, rgba(203, 218, 221, 0.52) 0%, rgba(204, 212,
 }
 
 .station a{
-    width: 200px;
+    width: 180px;
     line-height: 2;
     background-color: #7DC7E0;
     color: #FFF;
-    font-size: 28px;
+    font-size: 20px;
     text-decoration: none;
     text-align: center;
     border-radius: 4px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
     
 }
 
@@ -67,8 +67,8 @@ header nav ul {
     list-style: none;
     display: flex;
     background: rgba(255, 255, 255, 0.65);
-    width: 550px;
-    height: 50px;
+    width: 480px;
+    height: 40px;
     justify-content: center;
     align-items: center;
     gap: 17px;
@@ -84,7 +84,7 @@ header nav ul li {
 header nav ul li a {
     text-decoration: none;
     color: #7DC7E0;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -129,7 +129,7 @@ header nav ul li a {
     overflow: hidden;
     color: #7DC7E0;
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 1000;
     line-height: .9;
     /* margin-left: 100px; */
@@ -138,9 +138,9 @@ header nav ul li a {
 
 .Main h2{
     color: #FFF;
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
-    text-align: left;
+    text-align: center;
     font-weight: 1000;
     line-height: 1;
    

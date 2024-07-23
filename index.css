@@ -7,9 +7,9 @@
 }
 
 body{
-     background: url('bgi.JPEG') no-repeat center center/cover;
-     background-position: bottom -230px right -20px;
-     background-size: 135%;
+     background: url('bgi2.JPG') no-repeat center center/cover;
+     /* background-position: bottom -230px right -20px;
+     background-size: 135%; */
      
 }
 
@@ -40,13 +40,13 @@ header nav ul {
     list-style: none;
     display: flex;
     background: rgba(255, 255, 255, 0.65);
-    width: 550px;
-    height: 50px;
+    width: 480px;
+    height: 40px;
     justify-content: center;
     align-items: center;
     gap: 17px;
     float: right;
-    margin-right: 30px;
+
     border-radius: 10px;
 }
 
@@ -57,7 +57,7 @@ header nav ul li {
 header nav ul li a {
     text-decoration: none;
     color: #7DC7E0;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
