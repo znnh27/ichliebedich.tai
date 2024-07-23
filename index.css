@@ -79,7 +79,7 @@ header nav ul li a {
 }
 
 .hero-text .h1up {
-    font-size: 140px;
+    font-size: 120px;
     margin-bottom: 20px;
     position: absolute;
     top: 90px;
@@ -88,7 +88,7 @@ header nav ul li a {
 }
 
 .hero-text .h1down {
-    font-size: 140px;
+    font-size: 120px;
     margin-bottom: 20px;
     position: absolute;
     top: 235px;
@@ -97,7 +97,7 @@ header nav ul li a {
 }
 
 .hero-text p {
-    font-size: 40px;
+    font-size: 34px;
     margin-bottom: 40px;
     position: absolute;
     top: 465px;
